@@ -6,7 +6,10 @@
 }
 .ms_bg-green{
     background-color:rgb(26, 188, 156);
-    min-height: 590px;
+    color: white;
+}
+.ms_bg-blue{
+    background-color: rgb(58, 84, 109);
     color: white;
 }
 .ms_border{
