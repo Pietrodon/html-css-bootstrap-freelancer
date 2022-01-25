@@ -14,3 +14,18 @@
     height: 260px;
     border: 1px solid red;
 }
+.ms_h-start{
+    min-height: 588px;
+}
+.ms_h-portfolio{
+    min-height: 212px;
+}
+.ms_h-card{
+    min-height: 633px ;
+}
+.ms_h-about{
+    min-height: 497px;
+}
+.ms_h-contact{
+    min-height: 688px;
+}
