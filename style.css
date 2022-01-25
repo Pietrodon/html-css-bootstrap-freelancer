@@ -1,4 +1,16 @@
-.ms_bg-color{
+
+.ms_bg-grey{
     background-color:rgb(44, 62, 80);
     min-height: 88px;
+    color: white;
+}
+.ms_bg-green{
+    background-color:rgb(26, 188, 156);
+    min-height: 590px;
+    color: white;
+}
+.ms_border{
+    width: 360px;
+    height: 260px;
+    border: 1px solid red;
 }
