@@ -15,6 +15,14 @@
 .ms_h-header{
     height: 90px;
 }
+.ms_img-size{
+    width: 230px;
+    height: 260px;
+}
+.ms_icon-size{
+    font-size: 25px;
+}
+
 .ms_border{
     width: 360px;
     height: 260px;
@@ -24,9 +32,6 @@
     min-height: 588px;
 }
 
-.ms_h-card{
-    min-height: 633px ;
-}
 .ms_h-about{
     min-height: 497px;
 }
