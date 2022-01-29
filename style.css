@@ -12,6 +12,9 @@
     background-color: rgb(58, 84, 109);
     color: white;
 }
+.ms_h-header{
+    height: 90px;
+}
 .ms_border{
     width: 360px;
     height: 260px;
@@ -20,9 +23,7 @@
 .ms_h-start{
     min-height: 588px;
 }
-.ms_h-portfolio{
-    min-height: 212px;
-}
+
 .ms_h-card{
     min-height: 633px ;
 }
