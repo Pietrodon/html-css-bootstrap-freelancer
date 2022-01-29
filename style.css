@@ -47,6 +47,20 @@
 #ms_txt-area{
     width: 100%;
 }
+.ms_txt-footer-color{
+    color: rgb(26, 188, 156);
+}
+.ms_txt-footer-size{
+    font-size: 18px;
+}
+.ms_icon-footer{
+    font-size: 25px;
+    border: 1px solid white;
+    border-radius: 9999px;
+    text-align: center;
+    line-height: 15px;
+    padding: 13px;
+}
 .ms_h-start{
     min-height: 588px;
 }
