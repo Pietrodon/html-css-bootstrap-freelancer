@@ -31,9 +31,21 @@
     border-radius: 28px;
 }
 .ms_txt-about{
-    font-size: 20px;
+    font-size: 20 px;
     column-count: 2;
     text-align: left;
+}
+.ms_button{
+    color: white;
+    background-color: rgb(26, 188, 156);
+    border-radius: 5px;
+    border:2px solid white;
+}
+.ms_input{
+    color: black;
+}
+#ms_txt-area{
+    width: 100%;
 }
 .ms_h-start{
     min-height: 588px;
