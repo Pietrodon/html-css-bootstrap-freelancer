@@ -22,11 +22,13 @@
 .ms_icon-size{
     font-size: 25px;
 }
-
 .ms_border{
     width: 360px;
+}
+.ms_img-portfolio-size{
+    width: 360px;
     height: 260px;
-    border: 1px solid red;
+    border-radius: 28px;
 }
 .ms_h-start{
     min-height: 588px;
